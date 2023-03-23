@@ -3,7 +3,7 @@ env: ENV["GENIE_ENV"]
 dev:
   adapter:  PostgreSQL
   host:     127.0.0.1
-  port:     5432
-  database: dev
+  port:     5434
+  database: geniedemo5
   username: postgres
-  password: 
+  password: long-password-for-genie-demo5
